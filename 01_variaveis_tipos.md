@@ -42,6 +42,32 @@ print(preco_final)  # 90.0
 Se `preco` mudar, `preco_final` pode ser recalculado sem reescrever a lógica
 inteira, essa é a vantagem de nomear valores.
 
+### Múltiplas atribuições
+
+Em Python, é possível atribuir valores a várias variáveis em uma única linha.
+Esse recurso torna o código mais conciso e é muito utilizado pela comunidade.
+
+As duas formas abaixo são equivalentes:
+```python
+x = 10
+y = 20
+
+x, y = 10, 20
+```
+💡 Curiosidade
+
+A atribuição múltipla também permite trocar os valores de duas variáveis sem precisar de uma variável auxiliar.
+```python
+x = 10
+y = 20
+
+x, y = y, x
+
+print(x)  # 20
+print(y)  # 10
+
+```
+Essa é uma característica bastante conhecida do Python e será útil em diversos exercícios ao longo da trilha.
 ---
 
 ## 2. Nomes de variáveis
