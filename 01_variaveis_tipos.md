@@ -93,9 +93,15 @@ print("Ela disse: \"Olá\"")
 "x" not in "Python"
 # True
 ```
+### Python é dinamicamente tipado
+A variável pode guardar tipos diferentes ao longo da execução.
+```python
+x = 10
 
+x = "Python"
 
-
+x = True
+```
 
 ---
 
