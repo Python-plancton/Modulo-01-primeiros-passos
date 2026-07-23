@@ -351,7 +351,7 @@ encontrar erros de lógica.
 | 3 | `contador = contador + 1` | `2` |
 
 Antes de rodar um código para conferir o resultado, tente montar essa
-tabela mentalmente (ou no papel) — é assim que se debuga código sem
+tabela mentalmente (ou no papel) - é assim que se debuga código sem
 depender só do computador.
 
 ---
