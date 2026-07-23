@@ -68,6 +68,21 @@ print(y)  # 10
 
 ```
 Essa é uma característica bastante conhecida do Python e será útil em diversos exercícios ao longo da trilha.
+
+### Escape de caracteres
+
+Muito importante para strings.
+```python
+print("Olá\nMundo")
+# Olá
+# Mundo
+
+print("Nome\tIdade")
+# Nome    Idade
+
+print("Ela disse: \"Olá\"")
+# Ela disse: "Olá"
+```
 ---
 
 ## 2. Nomes de variáveis
