@@ -1,0 +1,8 @@
+# Virtual Environment
+.venv/
+
+# Exercícios
+**/exercicios.py
+
+# VS Code
+.vscode/
