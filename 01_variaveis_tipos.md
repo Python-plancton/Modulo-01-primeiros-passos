@@ -83,6 +83,20 @@ print("Nome\tIdade")
 print("Ela disse: \"Olá\"")
 # Ela disse: "Olá"
 ```
+
+### Operadores de pertencimento
+```python
+"Py" in "Python"
+
+# True
+
+"x" not in "Python"
+# True
+```
+
+
+
+
 ---
 
 ## 2. Nomes de variáveis
